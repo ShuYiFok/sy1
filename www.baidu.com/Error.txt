@@ -1,0 +1,17 @@
+﻿文件下载网址  =>  文件保存路径
+转URI地址失败：http:\/\/s1.bdstatic.com\/r\/www\/cache\/static\/global\/img\/icons_0e814c16.png
+转URI地址失败：http:\/\/s1.bdstatic.com\/r\/www\/cache\/static\/home\/img\/sugbg_6a9201c2.png
+转URI地址失败：\/\/www.baidu.com\/img\/sug_bd.png
+转URI地址失败：http:\/\/s1.bdstatic.com\/r\/www\/cache\/static\/global\/img\/pc_direct_ffda303e.png
+转URI地址失败：http:\/\/s1.bdstatic.com\/r\/www\/cache\/static\/global\/img\/pc_direct_ffda303e.png
+转URI地址失败：\/\/www.baidu.com\/aladdin\/img\/tools\/tools-3.png
+转URI地址失败：http:\/\/s1.bdstatic.com\/r\/www\/cache\/static\/global\/img\/baiduappLogo_7db5fd3c.png
+转URI地址失败：http:\/\/s1.bdstatic.com\/r\/www\/cache\/static\/global\/img\/winlogo_c525f65f.png
+转URI地址失败：http:\/\/s1.bdstatic.com\/r\/www\/cache\/static\/global\/img\/winlogo_c525f65f.png
+转URI地址失败：http:\/\/s1.bdstatic.com\/r\/www\/cache\/static\/global\/img\/translate_tool_icon_a480477c.gif
+转URI地址失败：http:\/\/s1.bdstatic.com\/r\/www\/cache\/static\/global\/img\/icons_0e814c16.png
+转URI地址失败：http:\/\/s1.bdstatic.com\/r\/www\/cache\/static\/soutu\/img\/soutu_icons_new_7b49c5a7.png
+file://www.baidu.com//aladdin//img//tools//tools-5.png/  =>  C:\Users\sy\Desktop\扒网页的小工具\扒网页的小工具\look\单页扒站小工具\www.baidu.com\images\677beba1b8a64dfb8f4c3ac4d7eabfaa.gif
+data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAMAAACuX0YVAAAABlBMVEVnpv85i\/9PO5r4AAAAD0lEQVR42gEEAPv\/AAAAAQAFAAIros7PAAAAAElFTkSuQmCC  =>  C:\Users\sy\Desktop\扒网页的小工具\扒网页的小工具\look\单页扒站小工具\www.baidu.com\images\ca1966a3a5e44a7da548db15e338d01c.gif
+file://www.baidu.com//aladdin//img//tools//loading.gif/  =>  C:\Users\sy\Desktop\扒网页的小工具\扒网页的小工具\look\单页扒站小工具\www.baidu.com\images\0a774bcf898446378e59743bab0a9b24.gif
+file://cache//global//img//aladdinIcon-1.0.gif/  =>  C:\Users\sy\Desktop\扒网页的小工具\扒网页的小工具\look\单页扒站小工具\www.baidu.com\images\fd45ad5101c54e458d4039b41b586eef.gif
